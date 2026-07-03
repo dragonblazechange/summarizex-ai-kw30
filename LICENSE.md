@@ -1,4 +1,4 @@
-# 
+# Seguro SummarizeX paquete. Descarga e instala con guía paso a paso y código abierto — rápido, seguro y fácil de usar.
 
 
 
